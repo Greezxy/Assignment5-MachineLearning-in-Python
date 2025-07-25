@@ -71,8 +71,8 @@ Assignment5-MachineLearning-in-Python/
 This project is for educational use only and is part of a course assignment.
 
 ## Acknowledgments
-Based on the tutorial by Jason Brownlee:
-Machine Learning in Python Step-by-Step
+Based on the tutorial by Jason Brownlee:  
+Machine Learning in Python Step-by-Step  
 © Jason Brownlee, MachineLearningMastery.com
 
 ---
