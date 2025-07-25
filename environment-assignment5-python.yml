@@ -1,0 +1,14 @@
+name: iris-ml-python
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.10
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - scikit-learn
+  - scipy
+prefix: /users/PAS2916/weiyidg/.conda/envs/iris-ml
