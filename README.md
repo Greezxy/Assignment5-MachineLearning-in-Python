@@ -62,9 +62,9 @@ The notebook will:
 All results are fully reproducible with the provided environment and dataset.
 
 ## Project Structure
-Assignment5-MachineLearning-in-Python/
-├── Machine Learning in Python.ipynb     # Jupyter notebook with full ML workflow
-├── environment-assignment5-python.yml           # Conda environment specification
+Assignment5-MachineLearning-in-Python/  
+├── Machine Learning in Python.ipynb     # Jupyter notebook with full ML workflow  
+├── environment-assignment5-python.yml           # Conda environment specification  
 ├── README.md                 # Project overview and instructions
 
 ## License
