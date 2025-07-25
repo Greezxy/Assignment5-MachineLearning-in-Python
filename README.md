@@ -63,9 +63,10 @@ All results are fully reproducible with the provided environment and dataset.
 
 ## Project Structure
 Assignment5-MachineLearning-in-Python/  
-├── Machine Learning in Python.ipynb     # Jupyter notebook with full ML workflow  
+├── Machine Learning in Python.ipynb             # Jupyter notebook with full ML workflow  
 ├── environment-assignment5-python.yml           # Conda environment specification  
-├── README.md                 # Project overview and instructions
+├── iris.csv                                     # Iris dataset used for training and evaluation  
+└── README.md                                    # Project overview and setup instructions
 
 ## License
 This project is for educational use only and is part of a course assignment.
